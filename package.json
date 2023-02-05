@@ -4,16 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open":"cypress open",
-    "test:batch-1":"cypress run --spec 'cypress/e2e/batch-1'",
-    "test:batch-2":"cypress run --spec 'cypress/e2e/batch-2'",
-    "test:batch-3":"cypress run --spec 'cypress/e2e/batch-3'",
-    "test:batch-4":"cypress run --spec 'cypress/e2e/batch-4'"
+    "cypress:open": "cypress open",
+    "test:batch-1": "cypress run --spec 'cypress/e2e/batch-1'",
+    "test:batch-2": "cypress run --spec 'cypress/e2e/batch-2'",
+    "test:batch-3": "cypress run --spec 'cypress/e2e/batch-3'",
+    "test:batch-4": "cypress run --spec 'cypress/e2e/batch-4'"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.2.0"
+    "cypress": "^12.5.1"
   }
 }
