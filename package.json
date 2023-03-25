@@ -1,5 +1,5 @@
 {
-  "name": "paralelizacao",
+  "name": "Curso de cypress | Testes paralelos",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "test:batch-4": "cypress run --spec 'cypress/e2e/batch-4'"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lucas Anselmo Luiz Lopes",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^12.5.1"
