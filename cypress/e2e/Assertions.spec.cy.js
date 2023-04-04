@@ -1,5 +1,6 @@
 /// <reference types="cypress" />
 
+
 describe("Assertions variadas em diversos tipos de dados", () => {
     
     it('Igualdade',() =>{
@@ -135,5 +136,11 @@ describe("Assertions variadas em diversos tipos de dados", () => {
         //verifica se o numero float é maior que 5
         expect(numerofloat).to.be.above(5)
     })
+
+})
+
+describe('suite de testes de login',()=>{
+
+    it("teste de login com e-mail e senha válida")
 
 })
