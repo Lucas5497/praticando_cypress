@@ -17,6 +17,7 @@ describe("Assertions variadas em diversos tipos de dados", () => {
         var a = true;
         var b = null;
         let c;
+        let d;
 
         //verifica se o valor armazenado na váriavel é verdadeiroo
         expect(a).to.be.true;
