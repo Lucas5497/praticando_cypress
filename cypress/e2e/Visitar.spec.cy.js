@@ -20,5 +20,5 @@ describe("Cypress básico, visitando uma página", () => {
         cy.get('#buttonSimple').should("have.value", "Obrigado!");
     })
 
-    it("", () => {})
+    it("nova suite", () => {})
 })
